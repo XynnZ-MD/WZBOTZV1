@@ -83,7 +83,7 @@ auth: state
 store.bind(alfia.ev)
 
 
-CFonts.say(`Okta`, {
+CFonts.say(`WEJET`, {
 font: 'pallet',
 align: 'center',
 gradient: ['red', 'magenta']

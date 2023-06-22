@@ -34,7 +34,7 @@ global.githubmu = 'https://github.com/XynnZ-MD' //Isi nama github mu
 global.ytmu = 'https://youtube.com/@chataofc-' //Gak usah di ubah
 global.ytvmu = 'https://youtube.com/@chataofc-' //Gak usah di ubah
 global.linkbebas = 'https://chat.whatsapp.com/DHuF7IPJ3a81jmuO9F6yM6' //Terserah mau luh isi web apa mau github atau link group juga bisa
-global.imglink = 'https://telegra.ph/file/f8af7e61754ab26984fbc.jpg' // isi dengan image link/foto link
+global.imglink = 'https://telegra.ph/file/b58288eab15c62a10f340.jpg' // isi dengan image link/foto link
 global.teksqr = {
 gopay: '_Ini kak Qr Gopay nya_',
 dana: '_Ini kak Qr Dana nya_',

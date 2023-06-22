@@ -19,8 +19,8 @@ return `
   > Gopay : 082127124134
   > Dana : 082127124134
   > Ovo : -
-  > Allpay : -
-  > Saweria : https://saweria.co/oktakc<
+  > Allpay : https://telegra.ph/file/000b2dbfa39746d183014.jpg
+  > Saweria : -
 
 _Terima Kasih Buat Kalian Kalian_
 _Yang Sudah Berdonasi Semoga_
